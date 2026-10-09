@@ -4,6 +4,7 @@ Multi-featured calendar app that is truly like no other.
 Built with Python and Pygame.
 
 ![ppc2 Screenshot](screenshot.png)
+![ppc2 Screenshot](screenshot2.png)
 
 ## Features
 * 3 different window sizes, 6 custom highlight color schemes and
